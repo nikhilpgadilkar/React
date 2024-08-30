@@ -1,0 +1,32 @@
+{
+  "name": "episode-3",
+  "version": "1.0.0",
+  "description": "episode 3",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilpgadilkar/React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Nikhil Gadilkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilpgadilkar/React/issues"
+  },
+  "homepage": "https://github.com/nikhilpgadilkar/React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}

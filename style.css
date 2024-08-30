@@ -1,0 +1,24 @@
+#headingComponent{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: antiquewhite;
+}
+#image-class {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+}
+
+#input-box {
+  width: 200px;
+  padding-left: 20px;
+  margin: 10px 20px;
+  align-items: center;
+}
+#user-icon {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+}
